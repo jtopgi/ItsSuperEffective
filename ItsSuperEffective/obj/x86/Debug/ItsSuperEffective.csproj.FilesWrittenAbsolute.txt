@@ -1,0 +1,6 @@
+/Code/Projects/DailyProgrammer/ItsSuperEffective/ItsSuperEffective/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Code/Projects/DailyProgrammer/ItsSuperEffective/ItsSuperEffective/bin/Debug/ItsSuperEffective.exe.mdb
+/Code/Projects/DailyProgrammer/ItsSuperEffective/ItsSuperEffective/bin/Debug/ItsSuperEffective.exe
+/Code/Projects/DailyProgrammer/ItsSuperEffective/ItsSuperEffective/obj/x86/Debug/ItsSuperEffective.exe
+/Code/Projects/DailyProgrammer/ItsSuperEffective/ItsSuperEffective/obj/x86/Debug/ItsSuperEffective.exe.mdb
+/Code/Projects/DailyProgrammer/ItsSuperEffective/ItsSuperEffective/bin/Debug/Newtonsoft.Json.dll

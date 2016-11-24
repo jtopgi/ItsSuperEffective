@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2446E480-78FD-496D-95A9-4372F19C3C5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ItsSuperEffective/Program.cs">
+    <Files>
+      <File FileName="ItsSuperEffective/Program.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ItsSuperEffective PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
